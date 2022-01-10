@@ -1,0 +1,602 @@
+[
+    {
+        "Song": "All I Want For Christmas Is You",
+        "Artists": "Mariah Carey",
+        "Ranking": "1",
+        "Weeks on Chart": "51"
+    },
+    {
+        "Song": "Easy On Me",
+        "Artists": "Adele",
+        "Ranking": "2",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "Rockin' Around The Christmas Tree",
+        "Artists": "Brenda Lee",
+        "Ranking": "3",
+        "Weeks on Chart": "45"
+    },
+    {
+        "Song": "Jingle Bell Rock",
+        "Artists": "Bobby Helms",
+        "Ranking": "4",
+        "Weeks on Chart": "42"
+    },
+    {
+        "Song": "A Holly Jolly Christmas",
+        "Artists": "Burl Ives",
+        "Ranking": "5",
+        "Weeks on Chart": "26"
+    },
+    {
+        "Song": "Stay",
+        "Artists": "The Kid LAROI & Justin Bieber",
+        "Ranking": "6",
+        "Weeks on Chart": "25"
+    },
+    {
+        "Song": "Heat Waves",
+        "Artists": "Glass Animals",
+        "Ranking": "7",
+        "Weeks on Chart": "50"
+    },
+    {
+        "Song": "It's The Most Wonderful Time Of The Year",
+        "Artists": "Andy Williams",
+        "Ranking": "8",
+        "Weeks on Chart": "27"
+    },
+    {
+        "Song": "Shivers",
+        "Artists": "Ed Sheeran",
+        "Ranking": "9",
+        "Weeks on Chart": "16"
+    },
+    {
+        "Song": "Feliz Navidad",
+        "Artists": "Jose Feliciano",
+        "Ranking": "10",
+        "Weeks on Chart": "20"
+    },
+    {
+        "Song": "Last Christmas",
+        "Artists": "Wham!",
+        "Ranking": "11",
+        "Weeks on Chart": "25"
+    },
+    {
+        "Song": "Industry Baby",
+        "Artists": "Lil Nas X & Jack Harlow",
+        "Ranking": "12",
+        "Weeks on Chart": "23"
+    },
+    {
+        "Song": "It's Beginning To Look A Lot Like Christmas",
+        "Artists": "Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra",
+        "Ranking": "13",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "Need To Know",
+        "Artists": "Doja Cat",
+        "Ranking": "14",
+        "Weeks on Chart": "29"
+    },
+    {
+        "Song": "Sleigh Ride",
+        "Artists": "The Ronettes",
+        "Ranking": "15",
+        "Weeks on Chart": "16"
+    },
+    {
+        "Song": "Super Gremlin",
+        "Artists": "Kodak Black",
+        "Ranking": "16",
+        "Weeks on Chart": "8"
+    },
+    {
+        "Song": "abcdefu",
+        "Artists": "GAYLE",
+        "Ranking": "17",
+        "Weeks on Chart": "6"
+    },
+    {
+        "Song": "The Christmas Song (Merry Christmas To You)",
+        "Artists": "Nat King Cole",
+        "Ranking": "18",
+        "Weeks on Chart": "32"
+    },
+    {
+        "Song": "Bad Habits",
+        "Artists": "Ed Sheeran",
+        "Ranking": "19",
+        "Weeks on Chart": "27"
+    },
+    {
+        "Song": "Cold Heart (PNAU Remix)",
+        "Artists": "Elton John & Dua Lipa",
+        "Ranking": "20",
+        "Weeks on Chart": "17"
+    },
+    {
+        "Song": "Underneath The Tree",
+        "Artists": "Kelly Clarkson",
+        "Ranking": "21",
+        "Weeks on Chart": "15"
+    },
+    {
+        "Song": "Christmas (Baby Please Come Home)",
+        "Artists": "Darlene Love",
+        "Ranking": "22",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "Santa Tell Me",
+        "Artists": "Ariana Grande",
+        "Ranking": "23",
+        "Weeks on Chart": "13"
+    },
+    {
+        "Song": "Rudolph The Red-Nosed Reindeer",
+        "Artists": "Gene Autry",
+        "Ranking": "24",
+        "Weeks on Chart": "17"
+    },
+    {
+        "Song": "White Christmas",
+        "Artists": "Bing Crosby",
+        "Ranking": "25",
+        "Weeks on Chart": "25"
+    },
+    {
+        "Song": "Run Rudolph Run",
+        "Artists": "Chuck Berry",
+        "Ranking": "26",
+        "Weeks on Chart": "14"
+    },
+    {
+        "Song": "Happy Holiday / The Holiday Season",
+        "Artists": "Andy Williams",
+        "Ranking": "27",
+        "Weeks on Chart": "13"
+    },
+    {
+        "Song": "Smokin Out The Window",
+        "Artists": "Silk Sonic (Bruno Mars & Anderson .Paak)",
+        "Ranking": "28",
+        "Weeks on Chart": "8"
+    },
+    {
+        "Song": "(There's No Place Like) Home For The Holidays",
+        "Artists": "Perry Como",
+        "Ranking": "29",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "Broadway Girls",
+        "Artists": "Lil Durk Featuring Morgan Wallen",
+        "Ranking": "30",
+        "Weeks on Chart": "2"
+    },
+    {
+        "Song": "Good 4 U",
+        "Artists": "Olivia Rodrigo",
+        "Ranking": "31",
+        "Weeks on Chart": "33"
+    },
+    {
+        "Song": "Ghost",
+        "Artists": "Justin Bieber",
+        "Ranking": "32",
+        "Weeks on Chart": "14"
+    },
+    {
+        "Song": "Fancy Like",
+        "Artists": "Walker Hayes",
+        "Ranking": "33",
+        "Weeks on Chart": "28"
+    },
+    {
+        "Song": "Let It Snow, Let It Snow, Let It Snow",
+        "Artists": "Dean Martin",
+        "Ranking": "34",
+        "Weeks on Chart": "19"
+    },
+    {
+        "Song": "Thats What I Want",
+        "Artists": "Lil Nas X",
+        "Ranking": "35",
+        "Weeks on Chart": "15"
+    },
+    {
+        "Song": "Essence",
+        "Artists": "Wizkid Featuring Justin Bieber & Tems",
+        "Ranking": "36",
+        "Weeks on Chart": "25"
+    },
+    {
+        "Song": "Jingle Bells",
+        "Artists": "Frank Sinatra",
+        "Ranking": "37",
+        "Weeks on Chart": "4"
+    },
+    {
+        "Song": "Kiss Me More",
+        "Artists": "Doja Cat Featuring SZA",
+        "Ranking": "38",
+        "Weeks on Chart": "37"
+    },
+    {
+        "Song": "One Right Now",
+        "Artists": "Post Malone & The Weeknd",
+        "Ranking": "39",
+        "Weeks on Chart": "8"
+    },
+    {
+        "Song": "Oh My God",
+        "Artists": "Adele",
+        "Ranking": "40",
+        "Weeks on Chart": "6"
+    },
+    {
+        "Song": "Christmastime Is Here",
+        "Artists": "Vince Guaraldi Trio",
+        "Ranking": "41",
+        "Weeks on Chart": "2"
+    },
+    {
+        "Song": "You Right",
+        "Artists": "Doja Cat & The Weeknd",
+        "Ranking": "42",
+        "Weeks on Chart": "26"
+    },
+    {
+        "Song": "Happier Than Ever",
+        "Artists": "Billie Eilish",
+        "Ranking": "43",
+        "Weeks on Chart": "22"
+    },
+    {
+        "Song": "Thinking 'Bout You",
+        "Artists": "Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter",
+        "Ranking": "44",
+        "Weeks on Chart": "20"
+    },
+    {
+        "Song": "Santa Baby",
+        "Artists": "Eartha Kitt With Henri Rene And His Orchestra",
+        "Ranking": "45",
+        "Weeks on Chart": "3"
+    },
+    {
+        "Song": "Better Days",
+        "Artists": "NEIKED X Mae Muller X Polo G",
+        "Ranking": "46",
+        "Weeks on Chart": "11"
+    },
+    {
+        "Song": "It's Beginning To Look A Lot Like Christmas",
+        "Artists": "Michael Buble",
+        "Ranking": "47",
+        "Weeks on Chart": "10"
+    },
+    {
+        "Song": "Love Nwantiti (Ah Ah Ah)",
+        "Artists": "CKay",
+        "Ranking": "48",
+        "Weeks on Chart": "15"
+    },
+    {
+        "Song": "I Hate U",
+        "Artists": "SZA",
+        "Ranking": "49",
+        "Weeks on Chart": "4"
+    },
+    {
+        "Song": "We Don't Talk About Bruno",
+        "Artists": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",
+        "Ranking": "50",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "Buy Dirt",
+        "Artists": "Jordan Davis Featuring Luke Bryan",
+        "Ranking": "51",
+        "Weeks on Chart": "21"
+    },
+    {
+        "Song": "Knife Talk",
+        "Artists": "Drake Featuring 21 Savage & Project Pat",
+        "Ranking": "52",
+        "Weeks on Chart": "17"
+    },
+    {
+        "Song": "Way 2 Sexy",
+        "Artists": "Drake Featuring Future & Young Thug",
+        "Ranking": "53",
+        "Weeks on Chart": "17"
+    },
+    {
+        "Song": "Surface Pressure",
+        "Artists": "Jessica Darrow",
+        "Ranking": "54",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "You Should Probably Leave",
+        "Artists": "Chris Stapleton",
+        "Ranking": "55",
+        "Weeks on Chart": "26"
+    },
+    {
+        "Song": "Meet Me At Our Spot",
+        "Artists": "THE ANXIETY: WILLOW & Tyler Cole",
+        "Ranking": "56",
+        "Weeks on Chart": "16"
+    },
+    {
+        "Song": "Whiskey And Rain",
+        "Artists": "Michael Ray",
+        "Ranking": "57",
+        "Weeks on Chart": "13"
+    },
+    {
+        "Song": "Sand In My Boots",
+        "Artists": "Morgan Wallen",
+        "Ranking": "58",
+        "Weeks on Chart": "24"
+    },
+    {
+        "Song": "Girls Want Girls",
+        "Artists": "Drake Featuring Lil Baby",
+        "Ranking": "59",
+        "Weeks on Chart": "17"
+    },
+    {
+        "Song": "One Mississippi",
+        "Artists": "Kane Brown",
+        "Ranking": "60",
+        "Weeks on Chart": "14"
+    },
+    {
+        "Song": "Who Want Smoke??",
+        "Artists": "Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage",
+        "Ranking": "61",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "Big Energy",
+        "Artists": "Latto",
+        "Ranking": "62",
+        "Weeks on Chart": "10"
+    },
+    {
+        "Song": "Chosen",
+        "Artists": "Blxst & Tyga Featuring Ty Dolla $ign",
+        "Ranking": "63",
+        "Weeks on Chart": "14"
+    },
+    {
+        "Song": "Enemy",
+        "Artists": "Imagine Dragons X JID",
+        "Ranking": "64",
+        "Weeks on Chart": "6"
+    },
+    {
+        "Song": "Pick Out A Christmas Tree",
+        "Artists": "Dan + Shay",
+        "Ranking": "65",
+        "Weeks on Chart": "5"
+    },
+    {
+        "Song": "All Too Well (Taylor's Version)",
+        "Artists": "Taylor Swift",
+        "Ranking": "66",
+        "Weeks on Chart": "7"
+    },
+    {
+        "Song": "Merry Christmas",
+        "Artists": "Ed Sheeran & Elton John",
+        "Ranking": "67",
+        "Weeks on Chart": "4"
+    },
+    {
+        "Song": "Have Mercy",
+        "Artists": "Chloe",
+        "Ranking": "68",
+        "Weeks on Chart": "16"
+    },
+    {
+        "Song": "Christmas Tree Farm (Old Timey Version)",
+        "Artists": "Taylor Swift",
+        "Ranking": "69",
+        "Weeks on Chart": "5"
+    },
+    {
+        "Song": "'Til You Can't",
+        "Artists": "Cody Johnson",
+        "Ranking": "70",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "Woman",
+        "Artists": "Doja Cat",
+        "Ranking": "71",
+        "Weeks on Chart": "22"
+    },
+    {
+        "Song": "My Universe",
+        "Artists": "Coldplay x BTS",
+        "Ranking": "72",
+        "Weeks on Chart": "14"
+    },
+    {
+        "Song": "Freedom Was A Highway",
+        "Artists": "Jimmie Allen & Brad Paisley",
+        "Ranking": "73",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "I'll Be Home For Christmas",
+        "Artists": "Camila Cabello",
+        "Ranking": "74",
+        "Weeks on Chart": "4"
+    },
+    {
+        "Song": "For Tonight",
+        "Artists": "Giveon",
+        "Ranking": "75",
+        "Weeks on Chart": "13"
+    },
+    {
+        "Song": "By Your Side",
+        "Artists": "Rod Wave",
+        "Ranking": "76",
+        "Weeks on Chart": "5"
+    },
+    {
+        "Song": "To Be Loved By You",
+        "Artists": "Parker McCollum",
+        "Ranking": "77",
+        "Weeks on Chart": "5"
+    },
+    {
+        "Song": "Heart On Fire",
+        "Artists": "Eric Church",
+        "Ranking": "78",
+        "Weeks on Chart": "6"
+    },
+    {
+        "Song": "Christmas Tree",
+        "Artists": "V",
+        "Ranking": "79",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "Message In A Bottle (Taylor's Version) (From The Vault)",
+        "Artists": "Taylor Swift",
+        "Ranking": "80",
+        "Weeks on Chart": "7"
+    },
+    {
+        "Song": "Scorpio",
+        "Artists": "Moneybagg Yo",
+        "Ranking": "81",
+        "Weeks on Chart": "6"
+    },
+    {
+        "Song": "Burn",
+        "Artists": "Juice WRLD",
+        "Ranking": "82",
+        "Weeks on Chart": "3"
+    },
+    {
+        "Song": "Hrs And Hrs",
+        "Artists": "Muni Long",
+        "Ranking": "83",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "Life Goes On",
+        "Artists": "Oliver Tree",
+        "Ranking": "84",
+        "Weeks on Chart": "4"
+    },
+    {
+        "Song": "Tequila Little Time",
+        "Artists": "Jon Pardi",
+        "Ranking": "85",
+        "Weeks on Chart": "12"
+    },
+    {
+        "Song": "Same Boat",
+        "Artists": "Zac Brown Band",
+        "Ranking": "86",
+        "Weeks on Chart": "15"
+    },
+    {
+        "Song": "Do It To It",
+        "Artists": "Acraze Featuring Cherish",
+        "Ranking": "87",
+        "Weeks on Chart": "2"
+    },
+    {
+        "Song": "Doin' This",
+        "Artists": "Luke Combs",
+        "Ranking": "88",
+        "Weeks on Chart": "3"
+    },
+    {
+        "Song": "Half Of My Hometown",
+        "Artists": "Kelsea Ballerini Featuring Kenny Chesney",
+        "Ranking": "89",
+        "Weeks on Chart": "7"
+    },
+    {
+        "Song": "Poke It Out",
+        "Artists": "Wale Featuring J. Cole",
+        "Ranking": "90",
+        "Weeks on Chart": "7"
+    },
+    {
+        "Song": "Bubbly",
+        "Artists": "Young Thug With Drake & Travis Scott",
+        "Ranking": "91",
+        "Weeks on Chart": "11"
+    },
+    {
+        "Song": "I Am Woman",
+        "Artists": "Emmy Meli",
+        "Ranking": "92",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "Christmas Isn't Canceled (Just You)",
+        "Artists": "Kelly Clarkson",
+        "Ranking": "93",
+        "Weeks on Chart": "2"
+    },
+    {
+        "Song": "Pressure",
+        "Artists": "Ari Lennox",
+        "Ranking": "94",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "Wandered To LA.",
+        "Artists": "Juice WRLD & Justin Bieber",
+        "Ranking": "95",
+        "Weeks on Chart": "4"
+    },
+    {
+        "Song": "Beers On Me",
+        "Artists": "Dierks Bentley, Breland & HARDY",
+        "Ranking": "96",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "Already Dead",
+        "Artists": "Juice WRLD",
+        "Ranking": "97",
+        "Weeks on Chart": "6"
+    },
+    {
+        "Song": "No Love",
+        "Artists": "Summer Walker & SZA",
+        "Ranking": "98",
+        "Weeks on Chart": "8"
+    },
+    {
+        "Song": "23",
+        "Artists": "Sam Hunt",
+        "Ranking": "99",
+        "Weeks on Chart": "1"
+    },
+    {
+        "Song": "Family Ties",
+        "Artists": "Baby Keem & Kendrick Lamar",
+        "Ranking": "100",
+        "Weeks on Chart": "18"
+    }
+]
